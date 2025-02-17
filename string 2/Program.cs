@@ -15,10 +15,10 @@
                 return false;
             }
         }
-        if (contaC == contaA)
-        {
-            return true;
-        }
+    }
+    if (contaC == contaA)
+    {
+        return true;
     }
     return false;
 }

@@ -12,3 +12,4 @@ C:\Users\lleshi.alessandro\Desktop\string2\string 2\obj\Debug\net8.0\refint\stri
 C:\Users\lleshi.alessandro\Desktop\string2\string 2\obj\Debug\net8.0\string 2.pdb
 C:\Users\lleshi.alessandro\Desktop\string2\string 2\obj\Debug\net8.0\string 2.genruntimeconfig.cache
 C:\Users\lleshi.alessandro\Desktop\string2\string 2\obj\Debug\net8.0\ref\string 2.dll
+C:\Users\lleshi.alessandro\Desktop\string2\string 2\obj\Debug\net8.0\string 2.sourcelink.json
