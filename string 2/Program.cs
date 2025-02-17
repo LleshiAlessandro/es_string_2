@@ -1,13 +1,24 @@
 ﻿bool controllo(string esp)
 {
-    string b = esp;
+    int contaA = 0, contaC = 0;
     for (int i = 0; i < esp.Length; i++)
     {
-        esp.Contains('(');
-        b.Contains(')');
+        if (esp[i] == '(')
+        {
+            contaA++;
+        }
+        else if (esp[i] == ')')
+        {
+            contaC++;
+        }
+        if (contaC == contaA)
+        {
+            return true;
+        }
     }
-
+    return false;
 }
 
 Console.WriteLine("dimmi la tua espressione matematica ");
 string esp = Console.ReadLine();
+Console.WriteLine(controllo(esp));

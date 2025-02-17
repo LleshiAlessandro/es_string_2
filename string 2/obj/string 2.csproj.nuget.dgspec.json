@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lleshi.alessandro\\Desktop\\progetti\\string 2\\string 2\\string 2.csproj": {}
+    "C:\\Users\\lleshi.alessandro\\Desktop\\string2\\string 2\\string 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lleshi.alessandro\\Desktop\\progetti\\string 2\\string 2\\string 2.csproj": {
+    "C:\\Users\\lleshi.alessandro\\Desktop\\string2\\string 2\\string 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lleshi.alessandro\\Desktop\\progetti\\string 2\\string 2\\string 2.csproj",
+        "projectUniqueName": "C:\\Users\\lleshi.alessandro\\Desktop\\string2\\string 2\\string 2.csproj",
         "projectName": "string 2",
-        "projectPath": "C:\\Users\\lleshi.alessandro\\Desktop\\progetti\\string 2\\string 2\\string 2.csproj",
+        "projectPath": "C:\\Users\\lleshi.alessandro\\Desktop\\string2\\string 2\\string 2.csproj",
         "packagesPath": "C:\\Users\\lleshi.alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lleshi.alessandro\\Desktop\\progetti\\string 2\\string 2\\obj\\",
+        "outputPath": "C:\\Users\\lleshi.alessandro\\Desktop\\string2\\string 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lleshi.alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
