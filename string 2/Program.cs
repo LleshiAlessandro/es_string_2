@@ -10,6 +10,10 @@
         else if (esp[i] == ')')
         {
             contaC++;
+            if (contaA < contaC)
+            {
+                return false;
+            }
         }
         if (contaC == contaA)
         {
